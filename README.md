@@ -31,26 +31,22 @@ O jogo foi desenhado com um conjunto de layouts que incluem diversos cenários e
 
 
 ### Ambiente de Jogo
-Inspirei-me nos jogos e gráficos seguintes para realizar o meu design:
+No meu jogo queria dar o sentimento de algo "retro", com a presença de elementos pixelizados e, por isso inspirei-me nos jogos e gráficos seguintes para realizar o meu design:
 
 <img src="Moodboard.png" alt="Ambiente de Jogo" width="800"/>
 
 ### Personagens Obstáculos
-A personagem presente no meu jogo é sempre o corredor, no entanto, o mesmo encontra-se em posições diferentes, tanto de corrida, como de salto. Quando aos obstáculos, são diversos instrumentos utilizados em desportos diferentes, tais como, bolas, raquetes e tacos.
+A personagem presente no meu jogo é sempre o corredor, no entanto, o mesmo encontra-se em posições diferentes, tanto de corrida (2ª e 3ª imagens), como de salto (1ª imagem). Quanto aos obstáculos, são diversos objetos utilizados em desportos diferentes, tais como, bolas, raquetes e tacos.
 
-<img src="boneco1.png" alt="Ambiente de Jogo" width="400"/>
-<img src="boneco2.png" alt="Ambiente de Jogo" width="400"/>
-<img src="boneco3.png" alt="Ambiente de Jogo" width="400"/>
+<img src="boneco1.png" alt="Ambiente de Jogo" width="200"/> <img src="boneco2.png" alt="Ambiente de Jogo" width="200"/> <img src="boneco3.png" alt="Ambiente de Jogo" width="200"/>
 
 ### Obstáculos
 
-<img src="oponente1.png" alt="Ambiente de Jogo" width="80"/>
-<img src="oponente2.png" alt="Ambiente de Jogo" width="80"/>
-<img src="oponente3.png" alt="Ambiente de Jogo" width="80"/>
-<img src="oponente4.png" alt="Ambiente de Jogo" width="80"/>
+<img src="oponente1.png" alt="Ambiente de Jogo" width="50"/> <img src="oponente2.png" alt="Ambiente de Jogo" width="50"/> <img src="oponente3.png" alt="Ambiente de Jogo" width="50"/> <img src="oponente4.png" alt="Ambiente de Jogo" width="50"/> <img src="oponente5.png" alt="Ambiente de Jogo" width="50"/>
+
 
 ### Identidade Gráfica
-Quanto à identidade gráfica, desenvolvi um logotipo com o corredor e com alguns elementos presentes no jogo, juntamente com o nome do mesmo. Abaixo, apresento também a paleta de cores respetiva ao próprio jogo.
+Quanto à identidade gráfica, desenvolvi um logotipo com o corredor e com alguns elementos presentes no jogo, juntamente com o nome do mesmo. Abaixo, apresento também a paleta de cores correspondente ao próprio jogo.
 
 <img src="Logotipo.jpg" alt="Ambiente de Jogo" width="400"/>
 <img src="paletadecores.png" alt="Ambiente de Jogo" width="400"/>
