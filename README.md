@@ -46,6 +46,9 @@ A personagem presente no meu jogo é sempre o corredor, no entanto, o mesmo enco
 
 <img src="oponente1.png" alt="Ambiente de Jogo" width="50"/> <img src="oponente2.png" alt="Ambiente de Jogo" width="50"/> <img src="oponente3.png" alt="Ambiente de Jogo" width="50"/> <img src="oponente4.png" alt="Ambiente de Jogo" width="50"/> <img src="oponente5.png" alt="Ambiente de Jogo" width="50"/>
 
+### Scoreboard
+
+<img src="scoreboardD-01.png" alt="Ambiente de Jogo" width="200"/>
 
 ### Identidade Gráfica
 Quanto à identidade gráfica, desenvolvi um logotipo com o corredor e com alguns elementos presentes no jogo, juntamente com o nome do mesmo. Abaixo, apresento também a paleta de cores correspondente ao próprio jogo.
