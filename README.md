@@ -9,12 +9,14 @@ Este projeto é um jogo desenvolvido com P5.js, baseado nas premissas definidas 
 Num mundo onde o desporto é a paixão de todos, existe uma competição lendária chamada "A Corrida dos Desportos". Nesta corrida única, os participantes percorrem um percurso repleto de desafios relacionados a diferentes modalidades desportivas. Os corredores devem desviar-se de obstáculos que representam os desportos mais populares do mundo.
 
 O Desafio
+ 
  A personagem principal do jogo é um jovem atleta determinado a vencer a Corrida dos Desportos. Ao longo do percurso, ele encontra-se com uma variedade de obstáculos, incluindo:
 Barreiras de corridas olímpicas;
 Bolas de diversos desportos;
 Equipamentos desportivos como raquetes, tacos.
 
 A Jornada
+ 
  A jornada do atleta começa no Estádio Olímpico, onde a multidão o aplaude enquanto ele se prepara para a corrida. Assim que a corrida começa, o jogador terá que se desviar de obstáculos inesperados que representam cada desporto.
 Ao aproximar-se das barreiras de corridas olímpicas, precisa de clicar rapidamente para saltar sobre as mesmas.
 De seguida, diversas bolas de diferentes desportos começam a voar na sua direção, e deve clicar para se desviar delas.
