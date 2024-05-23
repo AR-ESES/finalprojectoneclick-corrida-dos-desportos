@@ -39,7 +39,7 @@ No meu jogo queria dar o sentimento de algo "retro", com a presença de elemento
 
 <img src="Moodboard.png" alt="Ambiente de Jogo" width="800"/>
 
-### Personagens Obstáculos
+### Personagens
 A personagem presente no meu jogo é sempre o corredor, no entanto, o mesmo encontra-se em posições diferentes, tanto de corrida (2ª e 3ª imagens), como de salto (1ª imagem). Quanto aos obstáculos, são diversos objetos utilizados em desportos diferentes, tais como, bolas, raquetes e tacos.
 
 <img src="boneco1.png" alt="Ambiente de Jogo" width="200"/> <img src="boneco2.png" alt="Ambiente de Jogo" width="200"/> <img src="boneco3.png" alt="Ambiente de Jogo" width="200"/>
