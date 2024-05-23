@@ -1,5 +1,7 @@
 ## Corrida dos Desportos
 
+Trabalho realizado por: Duarte Salvador nº22000744
+
 ## Descrição do Projeto
 
 Este projeto é um jogo desenvolvido com P5.js, baseado nas premissas definidas na introdução à programação multimédia. O jogo tem como objetivo dar a conhecer vários desportos existentes, realçando também o cuidado que devemos ter ao praticá-los.
