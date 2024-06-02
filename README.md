@@ -58,6 +58,12 @@ Quanto à identidade gráfica, desenvolvi um logotipo com o corredor e com algun
 <img src="Logotipo.jpg" alt="Ambiente de Jogo" width="400"/>
 <img src="paletadecores.png" alt="Ambiente de Jogo" width="400"/>
 
+Por fim, após as sugestões dos professores quanto ao logotipo, criei alguns mockups com o logotipo antigo (como a base para copos/canecas) e os restantes com um logotipo novo, mais simplificado.
+
+<img src="base.jpg" alt="Ambiente de Jogo" width="200"/>
+
+<img src="chapéu.jpg" alt="Ambiente de Jogo" width="250" height="200"/> <img src="t-shirt.jpg" alt="Ambiente de Jogo" width="250" height="200"/> <img src="caneca.jpg" alt="Ambiente de Jogo" width="200" height="200"/>
+
 
 ## Vídeo Promocional
 Para documentar a utilização do jogo, criei um vídeo promocional de aproximadamente 30 segundos, que pode ser visto [aqui](https://youtu.be/9KEgE3CTHFE)
